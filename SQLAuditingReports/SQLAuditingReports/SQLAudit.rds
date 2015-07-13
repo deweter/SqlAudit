@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQLAudit">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=infra14db.csint.cz,1436;Initial Catalog=SQLAudit</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>73846568-31ca-46e9-841d-1e70b38ba519</DataSourceID>
+</RptDataSource>

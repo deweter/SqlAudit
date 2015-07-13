@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SQLAuditingReports">
+</Property><Property Name="Solution File" Value="C:\Users\sol60277\Downloads\SQL Audit Solution v2\sqlcat-15950\sqlauditcentral\SQLAuditCentral_Source\SQLAuditingReports\SQLAuditingReports.sln">
+</Property><Property Name="Date" Value="12. května 2015">
+</Property><Property Name="Time" Value="17:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SQLAuditingReports.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SQLAuditingReports.sln" Description="Converted">
+</Event></UpgradeLog>
